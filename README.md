@@ -1,1 +1,1 @@
-# Guess-the-Number
+It is a simple interactive game in python using simplegui in which you will keep guessing numbers untill you find the computer's number and computer will tell you each time if your guess was too high or too low.
